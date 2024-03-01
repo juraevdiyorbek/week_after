@@ -16,3 +16,4 @@ if result:
     print(f"After a week : {result}")
 else:
     print("There is a mistake! Try again")
+# agar result da qiymat bo'lsa ishlaydi aks holda ishlamidi
